@@ -14,7 +14,7 @@ const filme = {
 
 // respostas aqui ⬇️
 // a) Qual o código para imprimir o nome do **primeiro** ator/atriz?
-console.log (filme.elenco[0])
+console.log (filme.elenco[filme.elenco.length-4])
 // b) Qual o código para imprimir o nome do **último** ator/atriz?
 console.log (filme.elenco[3])
 // c) Qual o código para exibir o array com **todas** as transmissões de hoje?
